@@ -9,7 +9,7 @@ In this project we were given a web-based application that reads RSS feeds. The 
 * Run index.html file in a web browser
 * The upper part of the screen has the functionality of the app and the lower part displays the results of the tests. 
 * Tests are run when the page loads.
-* 
+
 
 ## Tests Written:
 
